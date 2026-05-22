@@ -1,0 +1,90 @@
+[
+  {
+    "id": "H001",
+    "name": "Sea View Resort",
+    "city": "Goa",
+    "rating": 4.5,
+    "price_per_night": 3200,
+    "rooms_available": 12,
+    "amenities": ["Pool", "Beachfront", "WiFi", "Restaurant"],
+    "check_in": "14:00",
+    "check_out": "11:00"
+  },
+  {
+    "id": "H002",
+    "name": "Taj Exotica Resort",
+    "city": "Goa",
+    "rating": 4.8,
+    "price_per_night": 8500,
+    "rooms_available": 5,
+    "amenities": ["Spa", "Multiple Pools", "Beachfront", "Luxury Dining"],
+    "check_in": "14:00",
+    "check_out": "12:00"
+  },
+  {
+    "id": "H003",
+    "name": "Budget Inn Goa",
+    "city": "Goa",
+    "rating": 3.8,
+    "price_per_night": 1200,
+    "rooms_available": 25,
+    "amenities": ["WiFi", "AC", "Basic Breakfast"],
+    "check_in": "14:00",
+    "check_out": "10:00"
+  },
+  {
+    "id": "H004",
+    "name": "Leela Palace Jaipur",
+    "city": "Jaipur",
+    "rating": 4.9,
+    "price_per_night": 7200,
+    "rooms_available": 8,
+    "amenities": ["Heritage Design", "Pool", "Fine Dining", "Heritage Tours"],
+    "check_in": "14:00",
+    "check_out": "12:00"
+  },
+  {
+    "id": "H005",
+    "name": "Rambagh Palace",
+    "city": "Jaipur",
+    "rating": 4.7,
+    "price_per_night": 9800,
+    "rooms_available": 3,
+    "amenities": ["Heritage Palace", "Spa", "Polo Ground", "Fine Dining"],
+    "check_in": "14:00",
+    "check_out": "12:00"
+  },
+  {
+    "id": "H006",
+    "name": "OYO Hotel Jaipur",
+    "city": "Jaipur",
+    "rating": 3.5,
+    "price_per_night": 1500,
+    "rooms_available": 18,
+    "amenities": ["WiFi", "AC", "Basic Breakfast"],
+    "check_in": "14:00",
+    "check_out": "10:00"
+  },
+  {
+    "id": "H007",
+    "name": "The Oberoi Mumbai",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "price_per_night": 6500,
+    "rooms_available": 14,
+    "amenities": ["Sea View", "Multiple Restaurants", "Spa", "Business Center"],
+    "check_in": "14:00",
+    "check_out": "12:00"
+  },
+  {
+    "id": "H008",
+    "name": "Budget Stay Mumbai",
+    "city": "Mumbai",
+    "rating": 3.2,
+    "price_per_night": 2000,
+    "rooms_available": 30,
+    "amenities": ["WiFi", "AC", "Elevator"],
+    "check_in": "14:00",
+    "check_out": "10:00"
+  }
+]

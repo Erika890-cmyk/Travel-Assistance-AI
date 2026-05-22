@@ -1,0 +1,134 @@
+[
+  {
+    "id": "P001",
+    "name": "Baga Beach",
+    "city": "Goa",
+    "type": "Beach",
+    "rating": 4.6,
+    "description": "Popular beach known for water sports and nightlife",
+    "entry_fee": 0,
+    "best_time": "Morning and Evening",
+    "duration_hours": 3
+  },
+  {
+    "id": "P002",
+    "name": "Basilica of Bom Jesus",
+    "city": "Goa",
+    "type": "Heritage",
+    "rating": 4.7,
+    "description": "UNESCO World Heritage Site with baroque architecture",
+    "entry_fee": 50,
+    "best_time": "Morning",
+    "duration_hours": 2
+  },
+  {
+    "id": "P003",
+    "name": "Old Goa Heritage Walk",
+    "city": "Goa",
+    "type": "Heritage",
+    "rating": 4.4,
+    "description": "Historic walk through ancient churches and Portuguese architecture",
+    "entry_fee": 0,
+    "best_time": "Morning",
+    "duration_hours": 3
+  },
+  {
+    "id": "P004",
+    "name": "Calangute Beach",
+    "city": "Goa",
+    "type": "Beach",
+    "rating": 4.3,
+    "description": "Family-friendly beach with water sports facilities",
+    "entry_fee": 0,
+    "best_time": "Daytime",
+    "duration_hours": 4
+  },
+  {
+    "id": "P005",
+    "name": "Water Sports at Calangute",
+    "city": "Goa",
+    "type": "Adventure",
+    "rating": 4.5,
+    "description": "Jetski, parasailing, and banana boat rides",
+    "entry_fee": 500,
+    "best_time": "Morning to Afternoon",
+    "duration_hours": 2
+  },
+  {
+    "id": "P006",
+    "name": "City Palace",
+    "city": "Jaipur",
+    "type": "Heritage",
+    "rating": 4.5,
+    "description": "Magnificent palace still partially used as royal residence",
+    "entry_fee": 300,
+    "best_time": "Morning",
+    "duration_hours": 2
+  },
+  {
+    "id": "P007",
+    "name": "Hawa Mahal - Palace of Winds",
+    "city": "Jaipur",
+    "type": "Heritage",
+    "rating": 4.6,
+    "description": "Iconic pink five-story structure with 953 small windows",
+    "entry_fee": 200,
+    "best_time": "Early Morning",
+    "duration_hours": 1
+  },
+  {
+    "id": "P008",
+    "name": "Jantar Mantar",
+    "city": "Jaipur",
+    "type": "Heritage",
+    "rating": 4.4,
+    "description": "UNESCO World Heritage astronomical measurement instrument",
+    "entry_fee": 250,
+    "best_time": "Morning",
+    "duration_hours": 1.5
+  },
+  {
+    "id": "P009",
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "type": "Heritage",
+    "rating": 4.5,
+    "description": "Historic monument and popular meeting point with sea views",
+    "entry_fee": 0,
+    "best_time": "Evening",
+    "duration_hours": 1
+  },
+  {
+    "id": "P010",
+    "name": "Marine Drive",
+    "city": "Mumbai",
+    "type": "Scenic",
+    "rating": 4.4,
+    "description": "Picturesque coastal promenade with shops and cafes",
+    "entry_fee": 0,
+    "best_time": "Evening",
+    "duration_hours": 2
+  },
+  {
+    "id": "P011",
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "type": "Heritage",
+    "rating": 4.8,
+    "description": "UNESCO World Heritage Monument - Symbol of Love",
+    "entry_fee": 1100,
+    "best_time": "Sunrise",
+    "duration_hours": 3
+  },
+  {
+    "id": "P012",
+    "name": "Agra Fort",
+    "city": "Agra",
+    "type": "Heritage",
+    "rating": 4.5,
+    "description": "Historic red sandstone fort with stunning Taj Mahal views",
+    "entry_fee": 500,
+    "best_time": "Morning",
+    "duration_hours": 2
+  }
+]
