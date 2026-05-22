@@ -1,0 +1,112 @@
+[
+  {
+    "id": "F001",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Goa",
+    "departure_time": "14:00",
+    "arrival_time": "16:30",
+    "price": 4800,
+    "duration_minutes": 150,
+    "seats_available": 45
+  },
+  {
+    "id": "F002",
+    "airline": "Air India",
+    "source": "Delhi",
+    "destination": "Goa",
+    "departure_time": "10:15",
+    "arrival_time": "12:45",
+    "price": 5500,
+    "duration_minutes": 150,
+    "seats_available": 12
+  },
+  {
+    "id": "F003",
+    "airline": "SpiceJet",
+    "source": "Delhi",
+    "destination": "Goa",
+    "departure_time": "18:00",
+    "arrival_time": "20:30",
+    "price": 3900,
+    "duration_minutes": 150,
+    "seats_available": 78
+  },
+  {
+    "id": "F004",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Goa",
+    "departure_time": "08:30",
+    "arrival_time": "09:45",
+    "price": 2500,
+    "duration_minutes": 75,
+    "seats_available": 56
+  },
+  {
+    "id": "F005",
+    "airline": "Vistara",
+    "source": "Mumbai",
+    "destination": "Goa",
+    "departure_time": "16:00",
+    "arrival_time": "17:20",
+    "price": 3200,
+    "duration_minutes": 80,
+    "seats_available": 34
+  },
+  {
+    "id": "F006",
+    "airline": "Air India",
+    "source": "Bangalore",
+    "destination": "Goa",
+    "departure_time": "12:00",
+    "arrival_time": "13:45",
+    "price": 3100,
+    "duration_minutes": 105,
+    "seats_available": 28
+  },
+  {
+    "id": "F007",
+    "airline": "IndiGo",
+    "source": "Bangalore",
+    "destination": "Goa",
+    "departure_time": "19:30",
+    "arrival_time": "21:00",
+    "price": 2800,
+    "duration_minutes": 90,
+    "seats_available": 62
+  },
+  {
+    "id": "F008",
+    "airline": "IndiGo",
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "departure_time": "09:00",
+    "arrival_time": "10:15",
+    "price": 1500,
+    "duration_minutes": 75,
+    "seats_available": 89
+  },
+  {
+    "id": "F009",
+    "airline": "Air India",
+    "source": "Delhi",
+    "destination": "Jaipur",
+    "departure_time": "15:30",
+    "arrival_time": "16:45",
+    "price": 1800,
+    "duration_minutes": 75,
+    "seats_available": 23
+  },
+  {
+    "id": "F010",
+    "airline": "IndiGo",
+    "source": "Mumbai",
+    "destination": "Kolkata",
+    "departure_time": "11:00",
+    "arrival_time": "14:30",
+    "price": 4200,
+    "duration_minutes": 210,
+    "seats_available": 41
+  }
+]
